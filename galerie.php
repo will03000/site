@@ -13,7 +13,7 @@
 		</div>
 		<nav>
 			<ul >
-				<li><a href="">Accueil</a></li>
+				<li><a href="index.php">Accueil</a></li>
 				<li><a href="galerie.php">Galerie Photo</a></li>
 				<li><a href="video.php">Coin Vidéo</a></li>
 				<li><a href="minichat.php">Minichat</a></li>
